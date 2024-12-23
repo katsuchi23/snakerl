@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+testing.ipynb
+.vscode
+snake_model_q_learning.pth
